@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlaAkindele
-- 👀 I’m interested in Software Development, Data Science/Analytics, Machine Learning
+- 👀 I’m interested in Software Development, Data Science/Analytics, and AI
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
